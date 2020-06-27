@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidPL_HW_1</string>
+    <string name="button">Button</string>
 </resources>
